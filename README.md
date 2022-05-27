@@ -3,6 +3,7 @@
 Ignews is a subscription application, which consume content in texts (which in this case are posts) coming from a CMS.
 
 <img src="public/Home.jpg">
+Project developed in chapter 3 of rocketseat's ignite reactjs
 
 ## ⚙ Technologies & Services
 
